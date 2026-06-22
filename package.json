@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "start": "npx serve -s dist"
   },
   "dependencies": {
     "@fontsource/orbitron": "^5.2.8",
