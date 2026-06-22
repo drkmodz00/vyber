@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
-import CarLighting from './CarLighting'
+import CarLighting from './Carlighting'
 
 export default function CarStage({ car }) {
   const [rotY, setRotY]       = useState(-8)
